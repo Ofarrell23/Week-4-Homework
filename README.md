@@ -11,8 +11,6 @@
 ## Overview
 For this project, We were tasked to create a multiple choice question page with Javascript. We were also tasked to make a start button with a coutdown number on the page. When answering the the questions the user will have the quesiton and the mutiple choices also presented. At the end of the quiz the User will be presented with the number of questions that were correct. As soon as the timer is done, the clock will alert the user that there isn't any time left. 
 
-
-
 ## Installation
 Steps to install and run Github.
 
@@ -23,7 +21,7 @@ Steps to install and run Github.
 
 ## Usage 
 
-https://ofarrell23.github.io/Week-2-Homework/#resume
+https://ofarrell23.github.io/Week-4-Homework/
 
 ## Credits
 
@@ -31,6 +29,7 @@ Below is a list of third-party tutorials used to help facilitate this project. T
 
 * [Credits] (https://www.w3schools.com/tags/att_img_alt.asp)
 * [Credits] (https://www.vikingcodeschool.com/html5-and-css3/html5-semantic-tags)
+* [Credits] (https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## License
 

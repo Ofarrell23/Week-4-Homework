@@ -3,7 +3,7 @@ function clock() {
 	var c = 30;
 
 	function myClock() {
-	  document.getElementById("demo").innerHTML = --c;
+	  document.getElementById("timer").innerHTML = --c;
 	  if (c == 0) {
 		clearInterval(myTimer);
 		alert("Reached zero");
