@@ -9,7 +9,9 @@
 * [License](#license)
 
 ## Overview
-For this project, we were tasked to create a responsive porfolio website. Elements of this website included a navigation bar, an image and a body. I was also taked to linking the navagation bar to the associated elements in the body. 
+For this project, We were tasked to create a multiple choice question page with Javascript. We were also tasked to make a start button with a coutdown number on the page. When answering the the questions the user will have the quesiton and the mutiple choices also presented. At the end of the quiz the User will be presented with the number of questions that were correct. As soon as the timer is done, the clock will alert the user that there isn't any time left. 
+
+
 
 ## Installation
 Steps to install and run Github.
@@ -22,7 +24,6 @@ Steps to install and run Github.
 ## Usage 
 
 https://ofarrell23.github.io/Week-2-Homework/#resume
-![alt text](./assets/images/Bio.png)
 
 ## Credits
 
